@@ -1,0 +1,17 @@
+	<servlet>
+        <servlet-name>session_ext</servlet-name>
+        <servlet-class>session_ext</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>session_ext</servlet-name>
+        <url-pattern>/servlets/servlet/session_ext</url-pattern>
+    </servlet-mapping>
+
+    <servlet>
+        <servlet-name>session_store</servlet-name>
+        <servlet-class>session_store</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>session_store</servlet-name>
+        <url-pattern>/servlets/servlet/session_store</url-pattern>
+    </servlet-mapping>

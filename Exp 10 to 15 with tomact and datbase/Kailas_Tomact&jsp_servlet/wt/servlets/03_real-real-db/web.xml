@@ -1,0 +1,21 @@
+
+
+      <servlet>
+        <servlet-name>servlet_db_front</servlet-name>
+        <servlet-class>servlet_db_front</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>servlet_db_front</servlet-name>
+        <url-pattern>/servlets/servlet/servlet_db_front</url-pattern>
+    </servlet-mapping>
+
+    <servlet>
+        <servlet-name>servlet_db_back</servlet-name>
+        <servlet-class>servlet_db_back</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>servlet_db_back</servlet-name>
+        <url-pattern>/servlets/servlet/servlet_db_back</url-pattern>
+    </servlet-mapping>
+
+  
