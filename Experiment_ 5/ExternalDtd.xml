@@ -1,0 +1,12 @@
+<?xml version = "1.0" encoding = "UTF-8" standalone = "no" ?>
+<!DOCTYPE address SYSTEM "address.dtd">
+
+<Banking>
+  <name>Kailash Gorade</name>
+  <accountnumber>39396575</accountnumber>
+  <email>kailashgorade9897@gmail</email>
+  <phone>9552505221</phone>
+  <address>Kolhapur</address>
+  <Type>Saving</Type>
+</Banking>
+

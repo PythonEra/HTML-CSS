@@ -1,0 +1,7 @@
+<!ELEMENT Banking (name,accountnumber,email,phone,address,Type)>
+<!ELEMENT name (#PCDATA)>
+<!ELEMENT accountnumber (#PCDATA)>
+<!ELEMENT email (#PCDATA)>
+<!ELEMENT phone (#PCDATA)>
+<!ELEMENT address (#PCDATA)>
+<!ELEMENT Type (#PCDATA)>

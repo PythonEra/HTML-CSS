@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<College>
+    
+  <Student>
+    <CollegeName>DYPCET, Kolhpaur</CollegeName>
+    <Department>CSE</Department>
+      <FirstName>Kailas</FirstName>
+      <LastName>Gorade</LastName>
+      <ContactNo>9552505221</ContactNo>
+      <Email>kailasgorade9897@gmail.com</Email>
+      <Address>
+           <City>Aurangabad</City>
+           <State>Maharashtra</State>
+           <Zip>431135</Zip>
+      </Address>
+      <Parents>
+          <Father>Shravan Gorade</Father>
+          <Mother>Shanta Gorade</Mother>
+          
+          
+      </Parents>
+      <Marks>
+          <SSC>76</SSC>
+          <HSC>58.92</HSC>
+          <ENGG>80</ENGG>
+      </Marks>
+  </Student>
+</College>

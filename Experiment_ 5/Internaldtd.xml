@@ -1,0 +1,17 @@
+<?xml version = "1.0" encoding = "UTF-8"  ?>
+<!DOCTYPE BANKING  [
+   <!ELEMENT Banking  (Account_Number, Name, MobileNo, Address, Emil-id)>
+   <!ELEMENT Account_Number (#PCDATA)>
+   <!ELEMENT Name (#PCDATA)>
+   <!ELEMENT MobileNo (#PCDATA)>
+   <!ELEMENT Address (#PCDATA)>
+   <!ELEMENT Emil-id (#PCDATA)>
+]>
+
+<BANKING >
+    <Account_Number>102020</Account_Number>
+    <Name>kailas</Name>
+    <MobileNo>952502520</MobileNo>
+    <Address>Merito</Address>
+    <Emil-id>abc@gamil.com</Emil-id>
+</BANKING>

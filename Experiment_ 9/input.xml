@@ -1,0 +1,24 @@
+<?xml version = "1.0"?>
+<class>
+   <student rollno = "80">
+      <firstname>Kailas</firstname>
+      <lastname>Gorade</lastname>
+      <nickname>Enzo</nickname>
+      <marks>70</marks>
+   </student>
+   
+   <student rollno = "94">
+      <firstname>Vaibhvu</firstname>
+      <lastname>Chivate</lastname>
+      <nickname>vibs</nickname>
+      <marks>80</marks>
+   </student>
+   
+   <student rollno = "91">
+      <firstname>Vipaual</firstname>
+      <lastname>Jadhav</lastname>
+      <nickname>viplya</nickname>
+      <marks>70</marks>
+   </student>
+</class>
+
